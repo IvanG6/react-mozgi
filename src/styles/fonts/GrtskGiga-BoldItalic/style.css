@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Grtsk Giga';
+    src: local('Grtsk Giga Bold Italic'), local('Grtsk-Giga-Bold-Italic'),
+        url('GrtskGiga-BoldItalic.woff2') format('woff2'),
+        url('GrtskGiga-BoldItalic.woff') format('woff'),
+        url('GrtskGiga-BoldItalic.ttf') format('truetype');
+    font-weight: 700;
+    font-style: italic;
+  }
